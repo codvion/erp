@@ -44,7 +44,7 @@ The public landing page opens first. Use the Login button to access the protecte
 
 ## Recommended Production Additions
 
-- Login and role-based access control.
+- Login and role based access control.
 - Edit/delete actions with confirmation.
 - Invoice PDF export.
 - Monthly profit/loss charts.
